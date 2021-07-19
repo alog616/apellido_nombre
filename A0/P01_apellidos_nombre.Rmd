@@ -42,3 +42,4 @@ Longitud:
 ```{r}
 length(v)
 ```
+ 
